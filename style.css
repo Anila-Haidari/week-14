@@ -50,3 +50,10 @@ li {
   flex: 1;
   padding: 6px;
 }
+button:hover {
+  background: #e2e2e2;
+}
+
+.edit-input:focus {
+  outline: 2px solid #4a90e2;
+}
